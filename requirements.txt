@@ -6,5 +6,5 @@ sklearn
 #math
 scipy
 #os
-cv2
+#cv2
 
