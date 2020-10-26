@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+sklearn
+mlp_toolkits
+math
+scipy
+os
+cv2
+
