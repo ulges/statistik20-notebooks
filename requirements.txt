@@ -3,7 +3,7 @@ matplotlib
 numpy
 sklearn
 #mlp_toolkits
-math
+#math
 scipy
 os
 cv2
