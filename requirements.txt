@@ -2,7 +2,7 @@ pandas
 matplotlib
 numpy
 sklearn
-pickle
+#pickle
 #mlp_toolkits
 #math
 scipy
